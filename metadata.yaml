@@ -1,0 +1,42 @@
+_repo: Lost-Leaders_16529
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  editor:
+    agent_name: Ridge, W. Pett (William Pett)
+    alias: Ridge, William Pett
+    deathdate: 1930
+    gutenberg_agent_id: '6773'
+    url: http://www.gutenberg.org/2009/agents/6773
+description: ''
+gutenberg_issued: '2005-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: Scotch rivers -- Salmon fishing -- Winter sports -- Human levitation
+  -- A Chinaman's marriage -- Sieur de Montaigne -- Thackeray's drawings -- Golf --
+  Art of dining -- American humour -- Suspended animation -- Breaking up -- On shaving
+  -- Street noises -- Lending of books -- Club bores -- Phiz -- Theory and practice
+  of proposals -- Master Samuel Pepys -- Involuntary Bailees -- Summer nights -- On
+  hypochondriacs -- Thackeray's London -- Torrid summer -- Western drolls -- Show
+  Sunday -- The dry fly -- Amateur authors -- Some rare things for sale -- Curiosity
+  hunting.
+title: Lost Leaders
+url: http://www.gutenberg.org/ebooks/16529
